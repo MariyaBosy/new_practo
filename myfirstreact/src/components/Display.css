@@ -1,0 +1,9 @@
+.Display{
+  display:flex;
+  justify-content:flex-end;
+    width: 255px;
+  height: 100px;
+  background-color:black;
+  
+  color:white;
+}

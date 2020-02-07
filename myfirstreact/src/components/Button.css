@@ -1,0 +1,36 @@
+Button{
+   
+   height:60px;
+   font-size:25px;
+   
+   
+   color: white;
+   margin:5px 5px 5px;
+   
+
+}
+
+.number, .dot
+{
+   background-color:dimgrey ;
+   width: 60px;
+   border-radius: 50%;
+}
+
+.operator{
+   background-color: orange;
+   width: 60px;
+   border-radius: 50%;
+}
+
+.special{
+   background-color:lightslategray;
+   width: 60px;
+   border-radius: 50%;
+}
+.zero{
+   background-color:dimgrey;
+   width: 120px;
+   margin-right:15px;
+   border-radius: 25px 25px 25px 25px;
+}
